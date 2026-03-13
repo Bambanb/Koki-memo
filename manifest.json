@@ -1,0 +1,13 @@
+{
+  "name": "皇紀メモ",
+  "short_name": "皇紀メモ",
+  "description": "皇紀テーマのメモアプリ",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0f0a1a",
+  "theme_color": "#8B5CF6",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "Koki_crest_20260313_091850.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
